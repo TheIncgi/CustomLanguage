@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\theincgi\source\repos\bytecode2\bytecode2\compiler.h(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\theincgi\source\repos\bytecode2\bytecode2\compiler.h(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\theincgi\source\repos\bytecode2\bytecode2\compiler.h(107): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\theincgi\source\repos\bytecode2\bytecode2\main.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\theincgi\source\repos\bytecode2\bytecode2\main.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  ByteCode2.vcxproj -> C:\Users\TheIncgi\source\repos\ByteCode2\Debug\ByteCode2.exe
